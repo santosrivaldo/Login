@@ -1,0 +1,50 @@
+[
+  {
+    "id": 910572100108344000000,
+    "nome": "Ris",
+    "email": "riv",
+    "dados": {},
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OTEwNTcyMTAwMTA4MzQ0MDAwMDAwLCJpYXQiOjE2NjQ5MDU0Mzd9.jdxyoV6UVz5qoozmH-QTfBYEhb8sTbOPEeCDZWbITGQ",
+    "hash": "$2b$10$yskM0Yd9qbHNdwwWE71XSu3Q25lHyQxn/8fEJIz22AahI8xK9PdyG"
+  },
+  {
+    "id": 514049769354928200000,
+    "nome": "R4is",
+    "email": "ri2",
+    "dados": {},
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NTE0MDQ5NzY5MzU0OTI4MjAwMDAwLCJpYXQiOjE2NjQ5MDU0NzR9.CRay8B4Wy8fnW8NI9hPlJxSzr_1DMsDesn-iq2fnSLI",
+    "hash": "$2b$10$uJD86VW1NT89rb4ickbXcuvbhqx707M86.LD/3FfRTlrKH15V7l6i"
+  },
+  {
+    "id": 911862039,
+    "nome": "egsaef",
+    "email": "Egefsae",
+    "dados": {},
+    "hash": "$2b$10$5/PtshsKhCT5N1p5yRRO9.hR2qxwPgjVtPOGKeWRD3Xj9OfXhxpZW",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OTExODYyMDM5LCJpYXQiOjE2NjQ5MDU3MzV9.0_537floG5HoeojISEtPgxyjjUdJo5oIdHnqEMIDE0k"
+  },
+  {
+    "id": 184591602,
+    "nome": "RivaldoF",
+    "email": "soumaiseu",
+    "dados": {},
+    "hash": "$2b$10$UtgJ3os8hIeNhn7MLOBu9.f6w2RJdueXkQ0vIp9eVVPG.Qq5jhYAy",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTg0NTkxNjAyLCJpYXQiOjE2NjQ5MDYwMTV9.0Bhy0ZXxcfAKcoLxZ2iHXTqfi1JRvPE932bFJ49-olY"
+  },
+  {
+    "id": 958640365,
+    "nome": "Teste",
+    "email": "email",
+    "dados": {},
+    "hash": "$2b$10$Em.sJWjkf9PDP4047vjY.u.g27kmo3Iqp6CKgxZ0T3mWEHPp1Zc0u",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OTU4NjQwMzY1LCJpYXQiOjE2NjQ5MDgzMDl9.38Wa83o6vpZZvqZBrZJWWBJ3oZMIEBG7ecbskFk9gUU"
+  },
+  {
+    "id": 605424978,
+    "nome": "Teste1",
+    "email": "email1",
+    "dados": {},
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NjA1NDI0OTc4LCJpYXQiOjE2NjQ5MDkwNzd9.c16LA_2E0SeSGYwiHiq7CpAv05SBvzxPYZyPtvQoIPM",
+    "hash": "$2b$10$jW5AjEvoimEB6N4wMMnBwO5IMlyqq6R7mJ3fsHfng66j7byerqCXm"
+  }
+]
