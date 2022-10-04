@@ -8,6 +8,7 @@ app.use(router);
 
 
 
+
 app.get("/", auth, (req, res) => {
     res.status(200).send({
         nome: req.user.nome,

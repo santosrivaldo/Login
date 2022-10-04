@@ -57,6 +57,7 @@ router.post("/criar", (req, res) => {
       nome: nome
    })
 
+   
 });
 
 module.exports = router;
